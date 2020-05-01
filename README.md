@@ -17,10 +17,17 @@ sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It co
 sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 To predict:- Global Active Power.
 
-Source:- http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
+# Source - UCI 
+http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
 
-Machine Learning Algorithms Used:
+## Project Overview
 
-1-Linear Regression
-
-2-Deep Neural Network
+1- Exploratory Data Analysis
+2- Data Visualization
+3- Analysis from Data Visualization
+4- Train and Test Split
+5- Data Preprocessing
+6- Machine Learning Algorithms Used:
+  1- Linear Regression
+  2- Deep Neural Network
+7- Results and Comparison
