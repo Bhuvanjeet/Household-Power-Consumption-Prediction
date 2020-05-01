@@ -23,11 +23,19 @@ http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consu
 ## Project Overview
 
 1- Exploratory Data Analysis
+
 2- Data Visualization
+
 3- Analysis from Data Visualization
+
 4- Train and Test Split
+
 5- Data Preprocessing
+
 6- Machine Learning Algorithms Used:
+  
   1- Linear Regression
+  
   2- Deep Neural Network
+
 7- Results and Comparison
