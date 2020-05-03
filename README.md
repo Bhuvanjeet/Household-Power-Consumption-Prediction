@@ -40,4 +40,4 @@ Download the dataset in .txt format and name it as 'household_power_consumption.
   
       2- Deep Neural Network (with Early Stopping)
 
-7- Results and Comparison
+7- Results and Comparison.
