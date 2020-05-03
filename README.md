@@ -36,6 +36,6 @@ http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consu
   
       1- Linear Regression
   
-      2- Deep Neural Network
+      2- Deep Neural Network (with Early Stopping)
 
 7- Results and Comparison
