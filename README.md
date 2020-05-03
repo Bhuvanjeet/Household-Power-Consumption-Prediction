@@ -20,6 +20,8 @@ To predict:- Global Active Power.
 # Source - UCI 
 http://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
 
+Download the dataset in .txt format and name it as 'household_power_consumption.txt' and save it where 'household_power.ipynb' file is cloned.
+
 ## Project Overview
 
 1- Exploratory Data Analysis
